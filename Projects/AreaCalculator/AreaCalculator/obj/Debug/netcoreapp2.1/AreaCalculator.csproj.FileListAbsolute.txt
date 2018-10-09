@@ -1,0 +1,11 @@
+/Users/hphifer/Projects/AreaCalculator/AreaCalculator/bin/Debug/netcoreapp2.1/AreaCalculator.deps.json
+/Users/hphifer/Projects/AreaCalculator/AreaCalculator/bin/Debug/netcoreapp2.1/AreaCalculator.runtimeconfig.json
+/Users/hphifer/Projects/AreaCalculator/AreaCalculator/bin/Debug/netcoreapp2.1/AreaCalculator.runtimeconfig.dev.json
+/Users/hphifer/Projects/AreaCalculator/AreaCalculator/bin/Debug/netcoreapp2.1/AreaCalculator.dll
+/Users/hphifer/Projects/AreaCalculator/AreaCalculator/bin/Debug/netcoreapp2.1/AreaCalculator.pdb
+/Users/hphifer/Projects/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp2.1/AreaCalculator.csprojAssemblyReference.cache
+/Users/hphifer/Projects/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp2.1/AreaCalculator.csproj.CoreCompileInputs.cache
+/Users/hphifer/Projects/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp2.1/AreaCalculator.AssemblyInfoInputs.cache
+/Users/hphifer/Projects/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp2.1/AreaCalculator.AssemblyInfo.cs
+/Users/hphifer/Projects/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp2.1/AreaCalculator.dll
+/Users/hphifer/Projects/AreaCalculator/AreaCalculator/obj/Debug/netcoreapp2.1/AreaCalculator.pdb
