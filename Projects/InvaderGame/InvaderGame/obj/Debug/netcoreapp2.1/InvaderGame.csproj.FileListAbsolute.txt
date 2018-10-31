@@ -1,0 +1,11 @@
+/Users/hphifer/Projects/InvaderGame/InvaderGame/obj/Debug/netcoreapp2.1/InvaderGame.csprojAssemblyReference.cache
+/Users/hphifer/Projects/InvaderGame/InvaderGame/obj/Debug/netcoreapp2.1/InvaderGame.csproj.CoreCompileInputs.cache
+/Users/hphifer/Projects/InvaderGame/InvaderGame/obj/Debug/netcoreapp2.1/InvaderGame.AssemblyInfoInputs.cache
+/Users/hphifer/Projects/InvaderGame/InvaderGame/obj/Debug/netcoreapp2.1/InvaderGame.AssemblyInfo.cs
+/Users/hphifer/Projects/InvaderGame/InvaderGame/bin/Debug/netcoreapp2.1/InvaderGame.deps.json
+/Users/hphifer/Projects/InvaderGame/InvaderGame/bin/Debug/netcoreapp2.1/InvaderGame.runtimeconfig.json
+/Users/hphifer/Projects/InvaderGame/InvaderGame/bin/Debug/netcoreapp2.1/InvaderGame.runtimeconfig.dev.json
+/Users/hphifer/Projects/InvaderGame/InvaderGame/bin/Debug/netcoreapp2.1/InvaderGame.dll
+/Users/hphifer/Projects/InvaderGame/InvaderGame/bin/Debug/netcoreapp2.1/InvaderGame.pdb
+/Users/hphifer/Projects/InvaderGame/InvaderGame/obj/Debug/netcoreapp2.1/InvaderGame.dll
+/Users/hphifer/Projects/InvaderGame/InvaderGame/obj/Debug/netcoreapp2.1/InvaderGame.pdb
